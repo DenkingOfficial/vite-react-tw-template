@@ -4,4 +4,4 @@ This template provides a minimal setup to get React working in Vite with Tailwin
 
 **!!! IMPORTANT !!!**
 
-Intended for use within [ADD LINK HERE]() repository
+Intended for use within [this](https://github.com/DenkingOfficial/fastapi-vite-react-tw-nginx) repository
